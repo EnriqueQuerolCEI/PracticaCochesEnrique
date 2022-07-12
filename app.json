@@ -1,0 +1,29 @@
+{
+  "id": "84457381-0496-4594-a592-6cad397a0220",
+  "name": "ALProject2",
+  "publisher": "Enrique Querol",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "Proyecto coches, Jordi tabla clientes,Jose tabla coche, Enrique tabla concesionario",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "20.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "9.0"
+}

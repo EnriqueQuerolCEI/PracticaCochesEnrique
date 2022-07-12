@@ -1,0 +1,28 @@
+{
+
+    "version": "0.2.0",
+
+    "configurations": [
+
+        {
+            "name": "ProyectoCar",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "OnPrem",
+            "server": "http://localhost",
+            "port": 7649,
+            "serverInstance": "BC200-TEST7",
+            "authentication": "Windows",
+            "startupObjectId": 22,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true,
+            "tenant": "default"
+
+        }
+
+    ]
+
+}
